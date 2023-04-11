@@ -1,5 +1,24 @@
-- 👋 Hi, I’m @MarcellGranat
-- 📫 Reach me at granat.marcell@uni-neumann.hu
+<h1 align="center">Hi 👋, I'm Marcell</h1>
+<h3 align="center">Passionate about all things programming, data science, economics ✨</h3>
+
+- 🎓 I'm a PhD student at ELTE
+- 💻 I'm working as an Education and Research Expert
+- 📫 Reach me on granat.marcell@uni-neumann.hu
+
+<h3 align="left">Always keen to connect:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marcell-granat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcell-granat" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left">Languages and tools:</h3>
+<p align="left"> <a href="https://www.rprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcellgranat&show_icons=true&locale=en&layout=compact" alt="marcellgranat" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcellgranat&show_icons=true&locale=en" alt="marcellgranat" />
+</p>
 
 <!---
 MarcellGranat/MarcellGranat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
