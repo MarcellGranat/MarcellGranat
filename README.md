@@ -3,7 +3,7 @@
 
 - 🎓 I'm a PhD student at ELTE
 - 💻 I'm working as an Education and Research Expert
-- 📫 Reach me on granat.marcell@uni-neumann.hu
+- 📫 Reach me on granat.marcell@nje.hu
 - 🖱 My personal website: https://marcellgranat.com
 
 <h3 align="left">Always keen to connect:</h3>
